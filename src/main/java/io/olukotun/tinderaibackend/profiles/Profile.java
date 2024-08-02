@@ -1,4 +1,4 @@
-package io.olukotun.tinderaibackend.profile;
+package io.olukotun.tinderaibackend.profiles;
 
 public record Profile(
         String id,

@@ -1,4 +1,4 @@
-package io.olukotun.tinderaibackend.profile;
+package io.olukotun.tinderaibackend.profiles;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 
