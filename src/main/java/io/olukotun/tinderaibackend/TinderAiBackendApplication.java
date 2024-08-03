@@ -39,12 +39,12 @@ public class TinderAiBackendApplication implements CommandLineRunner {
                 "joke"
         );
         Profile profile2 = new Profile(
-                "1",
-                "olu",
-                "olukotun",
+                "2",
+                "erhuu",
+                "blessing",
                 40,
                 "Nigeria",
-                Gender.MALE,
+                Gender.FEMALE,
                 "Software engineer",
                 "olu.gpg",
                 "joke"
